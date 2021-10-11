@@ -80,8 +80,8 @@ In this exercise, you will provision a Linux virtual machine (VM) running Ubuntu
     
     > You may need to provide some additional information on this screen. Use your best judgement for the required information.
 22. Wait until the deployment is complete.
-23. Once the deployment is complete, click on the ![Resource groups button](media/azure-resource-groups-button.png) button in the left-hand menu list under the Microsoft Azure logo.
-24. Find the `azvmnginxlab-[initials]-rg` resource group in the list and click on it.
+23. Once the deployment is complete, locate the "Next Steps section (located underneat the "Your deployment is complete" headline). Click the blue "Go to resource" button.
+24. Find the `azfunhttplab-[initials]-rg` resource group under "Essentials" and click on it.
 25. Verify the following resource types exist:
   - `Virtual network`
   - `Virtual machine`
