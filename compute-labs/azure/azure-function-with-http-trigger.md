@@ -60,8 +60,8 @@ In this exercise, you will create an Azure Function App Resource. Azure Function
 14. Click on the ![Next : Review + create button](media/azure-next-review-and-create-button.png) button.
 15. Review the summary and click on the ![Create button](media/azure-create-button.png) button.
 16. Wait until the deployment is completed.
-17. Once the deployment is complete, click on the ![Resource groups button](media/azure-resource-groups-button.png) button in the left-hand menu list under the Microsoft Azure logo.
-24. Find the `azfunhttplab-[initials]-rg` resource group in the list and click on it.
+17. Once the deployment is complete, locate the "Next Steps section (located underneat the "Your deployment is complete" headline). Click the blue "Go to resource" button.
+24. Find the `azfunhttplab-[initials]-rg` resource group under "Essentials" and click on it.
 25. Verify the following resource types exist:
   - `App Service plan`
   - `Function App`
