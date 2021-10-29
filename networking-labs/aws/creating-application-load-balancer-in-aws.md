@@ -77,6 +77,8 @@ In this exercise you will connect the second EC2 instance, install the NGINX web
 ### Exercise #5: Provision an Application Load Balancer in AWS
 
 In this exercise, you will provision an Application Load Balancer in AWS.
+Make sure ![Lab01_Exercise05(small)](https://user-images.githubusercontent.com/73623897/139506699-3c035de8-2fdf-4318-9853-366b639f68b8.png) is turned off or steps below will be different.
+
 
 1. Sign into the AWS Management console at [https://aws.amazon.com/console/](https://aws.amazon.com/console/) using your AWS credentials.
 2. In the search box on top of the screen, type *EC2* and press *Enter*.
@@ -145,7 +147,7 @@ In this exercise you learned how to test the load balancer that you deployed in 
 
 In this exercise you will delete the resources to save on cost.
 
-### Exercise #6: Stop the EC2 Instance
+### Exercise #8: Stop the EC2 Instance
 
 In this exercise, you will learn how to stop and terminate the resources and not incur any additional charges for them.
 
@@ -155,7 +157,7 @@ In this exercise, you will learn how to stop and terminate the resources and not
 4. Click on the *Instance ID* next to the `[initials]-awsnetworkinglab-instance01` EC2 instance from the list, where `[initials]` are your first, middle, and last name initials.
 5. From the ![Instance State button](media/aws-instance-state-dropdown-button.png), select the *Terminate instance* option.
 6. Click on the ![Terminate button](media/aws-terminate-orange-button.png) on the *Terminate instances* pop-up to confirm.
-7. Repear steps 4 through 6 for the `[initials]-awsnetworkinglab-instance02` EC2 instance.
+7. Repeat steps 4 through 6 for the `[initials]-awsnetworkinglab-instance02` EC2 instance.
 8. Scroll down the left-hand navigation and find section *Load Balancing*.
 9. Click on the *Load Balancers*.
 10. Select the `[initials]-networkinglab-ec2-lb` load balancer.
