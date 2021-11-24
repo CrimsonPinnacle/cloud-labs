@@ -38,8 +38,8 @@ Here are the requirements for the script:
 - When the user action is to "read" the file:
   - You should read the file line by line and find the word "imperdiet" in every line
   - The output of the read operation is to:
-    - Count how many times the word "imperdiet" exists in the file
-    - Count in how many lines the word "imperdiet" appears
+    - Count how many times the character `i` exists in the file
+    - Count in how many lines the character `i` appears
 - When the user action is to "write" to the file:
   - You should prompt the user to enter a sentence
   - You should look for the character `i` in every sentence entered by the user
