@@ -34,7 +34,8 @@ The objective of this lab is to explore the capabilities of the Azure Machine Le
 3. Once you are signed into Azure Machine Learning Studio, click on [Samples] at the top of the working area.
 4. Find the Anomaly Detection: Credit Risk sample in the list and click on it. You will see the model graph in the working area.
 5. Click on the [Save As] button at the bottom of the screen and fill in the following information:
-  *Experiment Name* --> `[initials]othercloudserviceslab01`
+   
+   *Experiment Name* --> `[initials]othercloudserviceslab01`
 6. Click on the button to confirm.
 7. Click on the [Run] button at the bottom of the working area.
 8. A counter in the upper right corner will show the time the experiment is running. Once complete, it will show *Finished running*.
