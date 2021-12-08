@@ -51,7 +51,7 @@ Here are the requirements for the script:
 While implementing the code, you must also instrument your code for logging and performance as follows:
 
 - You will use Python's logging framework to store log information to the "consoleapp.log" file.   
-  - You must have log messages with each of the following levels: CRITICAL, ERROR, INFO, DEBUG, TRACE.
+  - You must have log messages with each of the following levels: CRITICAL, ERROR, WARNING, INFO, DEBUG.
   - You should configure your logging to log with TRACE level but allow for easy reconfiguration to other log levels without code changes.
 - You will also need to collect the following performance metrics for your code:
   - Total execution time
