@@ -51,7 +51,7 @@ In this exercise, you will install Azure CLI on your machine and sign into Azure
 #### Exercise Summary
 At this point, you have learned how to install Azure CLI and use it to sign into Azure.
 
-### Exercise #1: Install Azure CLI and Sign Into Azure
+### Exercise #2: Deploy Azure Storage Blob using AR< template
 
 In this exercise, you will install Azure CLI on your machine and sign into Azure using your credentials.
 
